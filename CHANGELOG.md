@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.0](https://github.com/ramankarki/release-practice/compare/v2.2.0...v3.0.0) (2024-01-13)
+
+
+### Miscellaneous Chores
+
+* release 3.0.0 ([cec4aea](https://github.com/ramankarki/release-practice/commit/cec4aea98ce5964246de088349a9c6f776eb4c99))
+
 ## [2.2.0](https://github.com/ramankarki/release-practice/compare/v2.1.0...v2.2.0) (2024-01-13)
 
 
