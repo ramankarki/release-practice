@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/ramankarki/release-practice/compare/v1.2.0...v1.2.1) (2024-01-13)
+
+
+### Bug Fixes
+
+* random ([36ddda5](https://github.com/ramankarki/release-practice/commit/36ddda5e6881d372e99d91128705d31a0ec03036))
+
 ## [1.2.0](https://github.com/ramankarki/release-practice/compare/v1.1.0...v1.2.0) (2024-01-13)
 
 
