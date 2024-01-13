@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.4.0](https://github.com/ramankarki/release-practice/compare/v1.3.0...v1.4.0) (2024-01-13)
+
+
+### Features
+
+* test 1 ([f247907](https://github.com/ramankarki/release-practice/commit/f24790793a3f94a6f7ea61a8480c4e9420e1b3b7))
+* test 2 ([81eed0f](https://github.com/ramankarki/release-practice/commit/81eed0f798eead2a482b03b1ed89da0f35d5b2f4))
+* test 3 ([45abbbc](https://github.com/ramankarki/release-practice/commit/45abbbc18a7c78c65b35fd447d623a932cfa24d4))
+
 ## [1.3.0](https://github.com/ramankarki/release-practice/compare/v1.2.1...v1.3.0) (2024-01-13)
 
 
