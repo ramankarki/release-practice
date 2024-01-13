@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/ramankarki/release-practice/compare/v1.2.1...v1.3.0) (2024-01-13)
+
+
+### Features
+
+* test ([d2d4406](https://github.com/ramankarki/release-practice/commit/d2d44061d126dc6dd917cf356ffecc93f9955f86))
+
 ## [1.2.1](https://github.com/ramankarki/release-practice/compare/v1.2.0...v1.2.1) (2024-01-13)
 
 
