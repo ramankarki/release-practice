@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0](https://github.com/ramankarki/release-practice/compare/v1.4.0...v1.5.0) (2024-01-13)
+
+
+### Features
+
+* release-type with node ([ce3b2b8](https://github.com/ramankarki/release-practice/commit/ce3b2b8536153c9d2c14a3102e591f1d3d93fdcc))
+* some new feature ([d75cb4f](https://github.com/ramankarki/release-practice/commit/d75cb4f66752c1176de28856f12fefbc89a34ffc))
+
 ## [1.4.0](https://github.com/ramankarki/release-practice/compare/v1.3.0...v1.4.0) (2024-01-13)
 
 
