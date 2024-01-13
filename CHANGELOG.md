@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/ramankarki/release-practice/compare/v1.5.0...v2.0.0) (2024-01-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking changes
+
+### Features
+
+* breaking changes ([ce144af](https://github.com/ramankarki/release-practice/commit/ce144afbd3869f2d4e1043714c2562bb04633e10))
+
 ## [1.5.0](https://github.com/ramankarki/release-practice/compare/v1.4.0...v1.5.0) (2024-01-13)
 
 
