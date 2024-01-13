@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.0](https://github.com/ramankarki/release-practice/compare/v3.0.0...v5.0.0) (2024-01-13)
+
+
+### Miscellaneous Chores
+
+* release 5.0.0 ([65c70e0](https://github.com/ramankarki/release-practice/commit/65c70e0f80cfee1590ec0a5157e3f79017bfad0c))
+
 ## [3.0.0](https://github.com/ramankarki/release-practice/compare/v2.2.0...v3.0.0) (2024-01-13)
 
 
