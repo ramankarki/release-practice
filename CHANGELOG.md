@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/ramankarki/release-practice/compare/v2.1.0...v2.2.0) (2024-01-13)
+
+
+### Features
+
+* new version new feat ([5548a01](https://github.com/ramankarki/release-practice/commit/5548a01689c2029ed08531bfb7e6bcd9d6e1b41c))
+
 ## [2.1.0](https://github.com/ramankarki/release-practice/compare/v2.0.0...v2.1.0) (2024-01-13)
 
 
