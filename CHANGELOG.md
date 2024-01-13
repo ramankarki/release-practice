@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ramankarki/release-practice/compare/v1.0.0...v1.1.0) (2024-01-13)
+
+
+### Miscellaneous Chores
+
+* release 1.1.0 ([b81c199](https://github.com/ramankarki/release-practice/commit/b81c1995cb12fe0b153a53166440c8caf34f1fce))
+
 ## 1.0.0 (2024-01-13)
 
 
